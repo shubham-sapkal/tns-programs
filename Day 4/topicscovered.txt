@@ -5,8 +5,15 @@ operators
     - logical
     - bitwise
     - increment/decrement
+
+Conditions:
+    - If Condition
+    - IF .. else
+    - Nested If .. else    
+    
 Looping statements
     - for loop
+    - for Each loop
     - while loop
     - do .. while loop
     - switch stmts
