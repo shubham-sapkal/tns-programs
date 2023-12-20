@@ -1,4 +1,8 @@
 operators
+    - arithmetic
+    - logical
+    - bitwise
+    - increment/decrement
 Looping statements
     - for loop
     - while loop
