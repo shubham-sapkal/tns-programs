@@ -2,6 +2,7 @@
 
 - OOPS
 - Classess and objects
+<<<<<<< HEAD
 - OOP pillars (basic overview)
     - Encapsulation
     - Abstaction
@@ -21,3 +22,5 @@
 - Encapsulation
     - getters and setter
     
+=======
+>>>>>>> 2f07be55c15e3877071fd0565253c14ae4492a1c
