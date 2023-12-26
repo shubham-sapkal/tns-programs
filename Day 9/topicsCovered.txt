@@ -1,0 +1,26 @@
+26.12.23
+
+- Tax Calculation Application
+    1. Person
+        -> Annual Income
+        -> Name
+        -> Gender
+        -> Age  if greater than 60, no tax
+        -> TAX
+
+    2. Tax Calculation
+        -> put tax calculation formula
+        -> Criteria
+            1. Gender => Female ----> No TAX
+                         Male ------> TAX 
+            2. Age => age > 65 ------> No TAX 
+            3. Income
+                Income < 160000 ------> No TAX
+                else if Income is 160000 - 500000 ---> 10% Tax
+                else if icome is 500000- 100000 ---> 20% Tax
+
+    3. Convert it into excutable file / driver file.
+
+
+- Packages In Java
+- Access Modifiers

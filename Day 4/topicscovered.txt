@@ -1,11 +1,5 @@
 18.12.23
 
-operators
-    - arithmetic
-    - logical
-    - bitwise
-    - increment/decrement
-
 Conditions:
     - If Condition
     - IF .. else

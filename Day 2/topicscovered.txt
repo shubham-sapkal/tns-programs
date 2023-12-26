@@ -1,6 +1,5 @@
 14.12.23
 
 - Introduction To java
-- Datatypes in java
-    primitive
-    non primitive
+- History Of Java
+- Advantages of Java
