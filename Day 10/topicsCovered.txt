@@ -1,9 +1,0 @@
-27.12.23
-
-- access modifiers program
-
-- Design Pattern
-    1. Singleton
-
-In which memory static members get assigment from?
-    method area
