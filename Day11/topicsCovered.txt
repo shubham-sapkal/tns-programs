@@ -1,0 +1,5 @@
+28.12.23
+
+- Singleton Design Pattern
+- inheritance
+	1. Single Inheritance
