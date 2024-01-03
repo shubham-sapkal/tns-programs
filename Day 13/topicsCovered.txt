@@ -1,0 +1,7 @@
+02/01/24
+
+- Association in Classes
+	- IS a Relationship
+	- Has a Relationship
+- Static
+- Static Block
