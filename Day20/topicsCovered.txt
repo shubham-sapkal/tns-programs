@@ -1,0 +1,16 @@
+11.0.24
+
+- Array 
+
+- Array Declearation and Ininitalizaton
+
+- Array display using loop 
+
+- Arrays method
+	- toString
+	- sort
+	- binarySearch
+	
+- Array Operations
+
+- variable arguments (varargs)

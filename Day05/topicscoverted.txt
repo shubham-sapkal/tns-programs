@@ -1,0 +1,10 @@
+Date: 19/12/23
+
+1. How to upload project into github repo
+2. Increment/decrement
+    - Pre Increment / Pre Increment
+    - Pre Decrement / Post Decrement
+3. Switch Case
+4. Nested loops
+5. nested if else
+6. Continue

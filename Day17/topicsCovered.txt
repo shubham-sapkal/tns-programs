@@ -1,0 +1,19 @@
+08.01.24
+
+- Types Of Interface
+	1. Function Interface
+		- Contains Only One Abstract Method
+	2. Marker Interface
+		- Doesnt have any thing
+	
+- Lambda Expression
+- Cloneable Interface - Marker Interface
+- Runnable Interface - Functional Interface
+
+- Inheritance In Interface
+
+- Nested Interface
+
+- Collection framework Flow Diagram
+
+- String in Java

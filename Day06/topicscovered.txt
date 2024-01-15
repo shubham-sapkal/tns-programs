@@ -1,0 +1,23 @@
+20.12.23
+
+- OOPS
+- Classess and objects
+- OOP pillars (basic overview)
+    - Encapsulation
+    - Abstaction
+    - Inheritance
+        Types:
+            1. Single Inheritance
+            2. Multi level Inheritance
+            3. Hirarchical Inheritance
+            4. Multiple Inheritance
+            5. Hybird Inheritance
+    - Polymorphism
+        types:
+            1. Compile Time
+                - Overloading
+                - Overriding
+            2. Run Time
+- Encapsulation
+    - getters and setter
+    

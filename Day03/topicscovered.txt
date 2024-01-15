@@ -1,0 +1,11 @@
+15.12.23
+
+- Data Types In Java
+   - Primitive
+   - Non Primitive
+
+- Operators
+    - arithmetic
+    - logical
+    - bitwise
+    - increment/decrement

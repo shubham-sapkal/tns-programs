@@ -1,0 +1,14 @@
+18.12.23
+
+Conditions:
+    - If Condition
+    - IF .. else
+    - Nested If .. else    
+    - switch stmts
+    
+Looping statements
+    - for loop
+    - for Each loop
+    - while loop
+    - do .. while loop
+    
