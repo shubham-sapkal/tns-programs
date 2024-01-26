@@ -1,0 +1,4 @@
+23.01.2024
+
+- Throw and Throws Keyword
+- Multi Threading
