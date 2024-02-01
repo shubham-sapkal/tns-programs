@@ -1,0 +1,19 @@
+30.01.24
+
+- Collection Framework
+- Why to use Data Structure
+
+- Collection Hirarchy
+
+- List Collection -> ArrayList
+- ArrayList methods
+
+- Generics In Java
+
+- Itrarator
+
+- LinkedList 
+
+- LinkedList VS ArrayList
+
+- LinkedList

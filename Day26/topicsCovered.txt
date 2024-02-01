@@ -1,0 +1,5 @@
+
+29.01.24
+
+- Thread Priority
+- Thread synchronization
